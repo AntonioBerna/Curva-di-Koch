@@ -11,7 +11,7 @@ La generazione della curva di Koch avviene grazie all'esecuzione ripetuta di un 
 6) Girare a sinistra di 60 gradi.
 7) Disegnare una curva di Koch di lunghezza x/3.
 
-![](gif/)
+![](gif/Koch_anime.gif)
 
 # Per maggiori informazioni
 Curca di Koch [Teoria]: https://it.wikipedia.org/wiki/Curva_di_Koch (consiglio la pagina in lingua inglese)
