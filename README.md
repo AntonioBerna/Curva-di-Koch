@@ -14,6 +14,7 @@ Per disegnare una curva di Koch di lunghezza x bisogna:
 
 Rappresentazione grafica della prima iterazione alle successive iterazioni della curva di Koch:
 
+
 ![](gif/Koch_anime.gif)
 
 # Per maggiori informazioni
