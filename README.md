@@ -17,5 +17,7 @@ _Rappresentazione grafica della prima iterazione alle successive iterazioni dell
 
 # Per maggiori informazioni
 Spiegazione online della Curva di Koch [youtube]: _IN ARRIVO_
+
 Curca di Koch [Teoria]: https://it.wikipedia.org/wiki/Curva_di_Koch (consiglio la pagina in lingua inglese)
+
 Created By Antonio Bernardini Copyright© 2020
