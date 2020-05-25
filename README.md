@@ -12,7 +12,7 @@ Per disegnare una curva di Koch di lunghezza x bisogna:
 6) Girare a sinistra di 60 gradi.
 7) Disegnare una curva di Koch di lunghezza x/3.
 
-_Rappresentazione grafica della prima iterazione alle successive iterazioni della curva di Koch:_
+_Rappresentazione grafica dalla prima iterazione in poi della curva di Koch:_
 ![](gif/Koch_anime.gif)
 
 # Per maggiori informazioni
