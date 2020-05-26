@@ -20,7 +20,7 @@ _Rappresentazione grafica dalla prima iterazione in poi della curva di Koch:_
 ![](gif/Koch_anime.gif)
 
 # Per maggiori informazioni
-Spiegazione online della Curva di Koch [youtube]: _IN ARRIVO_
+Spiegazione online della Curva di Koch [youtube]: https://www.youtube.com/watch?v=kJWG2YL4xGM
 
 Curva di Koch [Teoria]: https://it.wikipedia.org/wiki/Curva_di_Koch (consiglio la pagina in lingua inglese)
 
