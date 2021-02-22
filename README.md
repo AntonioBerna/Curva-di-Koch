@@ -26,4 +26,4 @@ Spiegazione online della Curva di Koch [youtube]: https://www.youtube.com/watch?
 
 Curva di Koch [Teoria]: https://it.wikipedia.org/wiki/Curva_di_Koch (consiglio la pagina in lingua inglese)
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
