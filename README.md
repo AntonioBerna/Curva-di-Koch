@@ -17,7 +17,9 @@ Ad eccezione di quando x è minore di 3: in questo caso si disegna una linea dri
 
 _Rappresentazione grafica dalla prima iterazione in poi della curva di Koch:_
 
-![](gif/Koch_anime.gif)
+<p align="center">
+  <img src="gif/Koch_anime.gif">
+</p>
 
 # Per maggiori informazioni
 Spiegazione online della Curva di Koch [youtube]: https://www.youtube.com/watch?v=kJWG2YL4xGM
